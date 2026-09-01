@@ -1,1 +1,19 @@
 /* Add CSS Styling */
+p {
+    background-color: #F7AFA3;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#two {
+    font-size: 36px;
+    color: #1636F7;
+}
+
+.tf
+{
+    font-size: 24px;
+}
+#fourth {
+    background-color: #8AFFBB;
+    font-weight: bold;
+}
